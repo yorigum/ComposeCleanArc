@@ -1,18 +1,6 @@
 
-h
-8app/src/main/java/com/yoriworks/yomovies/MainActivity.kt,3\0\309fc36d9e1f413955a333eae78e6727e8573bba
-h
-8domain/src/main/java/com/yoriworks/domain/model/Movie.kt,0\3\03fa1e95c6f6f60a6b3c6efe26fb4c562e79f5e9
-h
-8domain/src/main/java/com/yoriworks/domain/util/Result.kt,f\6\f6016935e64799600a052a9635afa20e0f1a20b0
-|
-Ldomain/src/main/java/com/yoriworks/domain/useCase/GetPopularMoviesUseCase.kt,9\7\977192eebe83d7c2d1acd1f20168d8355f9ada73
-w
-Gdomain/src/main/java/com/yoriworks/domain/repository/MovieRepository.kt,0\b\0b6c17f43658379e6e777fdb41d06947deabe167
 w
 Gdata/src/main/java/com/yoriworks/data/repository/MovieRepositoryImpl.kt,a\e\aeca108441512851242c8907cde8ccfc87a26bbc
-l
-<domain/src/main/java/com/yoriworks/domain/model/MovieList.kt,9\d\9d2d612d72fae8e46d6c67deebe3c8565c143a66
 G
 data/proguard-rules.pro,0\f\0fbb6d729d2f1271751b1eee2d01927256945f01
 >
